@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @amoghphadnis
-- 👀 I’m interested in Web Developing, Designing, Editing Videos and Photos... I am a Car enthusisast, I love to collect information about cars!
-- 🌱 I’m currently learning Machine Laerning, Digital Marketing and React JS
-- 💞️ I’m looking to collaborate on Automobile Journalism
+👋 Hi there, I’m Amogh Phadnis.
+
+👀 I’m passionate about Web Development, Design, Video Editing, and Photography. I have a keen interest in automobiles and enjoy collecting information about cars.
+
+🌱 Currently, I'm expanding my skills in Machine Learning, Digital Marketing, and React JS.
+
+💼 Open to collaboration opportunities in the realm of Automobile Journalism.
+
 - 📫 How to reach me 
 1) Facebook:-https://www.facebook.com/amogh.phadnis/
 2) Instagram:- https://www.instagram.com/amoghphadnis/
-3) LinkedIN:- https://www.linkedin.com/in/amogh-phadnis-885231192/
+3) LinkedIn:- https://www.linkedin.com/in/amogh-anand-phadnis/
 
 <!---
 amoghphadnis/amoghphadnis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
